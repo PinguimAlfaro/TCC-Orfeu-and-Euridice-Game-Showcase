@@ -1,1 +1,1 @@
-# TCC-Orfeu---Eur-dice-Game-Showcase
+# TCC-Orfeu-and-Eurídice-Game-Showcase
