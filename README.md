@@ -18,17 +18,17 @@ The full implementation is private, but I’m happy to discuss details if needed
 Members informations
 
 Lucas Pereira Alfaro
--Lattes:
--Linkedin:
+- Lattes:
+- Linkedin:
 
 Sophie Sthephanie de Carvalho 
--Lattes:
--Linkedin:
+- Lattes:
+- Linkedin:
 
 Thiago Falci
--Lattes:
--Linkedin:
+- Lattes:
+- Linkedin:
 
 Lorena de Castro
--Lattes:
--Linkedin:
+- Lattes:
+- Linkedin:
