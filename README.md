@@ -15,7 +15,7 @@ This project was developed as a Capstone project/ Final Paper programmed and wri
 
 The full implementation is private, but I’m happy to discuss details if needed.
 
-*Members informations*
+**Members informations**
 
 Lucas Pereira Alfaro
 - Lattes:
