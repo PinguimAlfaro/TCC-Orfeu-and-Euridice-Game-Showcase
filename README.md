@@ -9,6 +9,8 @@ This project was developed as a Capstone project/ Final Paper programmed and wri
 
 
 🛠️ Tech Stack
+- C#
+- Word (Documenting)
 
 
 🔒 Source Code
