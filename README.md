@@ -79,6 +79,10 @@ By combining **mythological storytelling** with **game design principles**, the 
 * Explore the intersection of **games and education**
 * Publish the game for a broader audience
 
+🔒 Source Code
+
+The full implementation is private, but I’m happy to discuss details if needed.
+
 ---
 
 ## 👨‍💻 Team
