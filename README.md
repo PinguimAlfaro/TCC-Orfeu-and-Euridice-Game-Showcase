@@ -60,7 +60,7 @@ By combining **mythological storytelling** with **game design principles**, the 
 
 ## 📸 Visual Preview
 
-> *(Add GIFs or screenshots here — ideally showing cooperation mechanics)*
+<img width="867" height="437" alt="Imagem1" src="https://github.com/user-attachments/assets/587e95be-c844-45f2-99ca-8e43d71bfd4a" />
 
 ---
 
