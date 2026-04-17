@@ -23,8 +23,8 @@ The full implementation is private, but I’m happy to discuss details if needed
 **Members informations**
 
 Lucas Pereira Alfaro
-- Lattes:
-- Linkedin:
+- Lattes:http://lattes.cnpq.br/5556369905171857
+- Linkedin:http://www.linkedin.com/in/pinguim-alfaro-058a173a7
 
 Sophie Sthephanie de Carvalho 
 - Lattes:
