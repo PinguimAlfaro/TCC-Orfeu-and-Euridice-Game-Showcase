@@ -88,6 +88,8 @@ The full implementation is private, but I’m happy to discuss details if needed
 ## 👨‍💻 Team
 
 * Lucas Pereira Alfaro
+  Linkedin: http://www.linkedin.com/in/pinguim-alfaro-058a173a7
+  Lattes: http://lattes.cnpq.br/5556369905171857
 * Lorena de Castro Teixeira
 * Sophie Stephanie Pereira
 * Thiago Mendonça Falci
